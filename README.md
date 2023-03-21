@@ -6,7 +6,7 @@ This template provides a one-click dev environment for building "LLM apps" with 
 
 ## Getting Started
 
-1. Create a codespace for this templates.
+1. Create a codespace for this template.
 
     [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/lostintangent/codespaces-langchain?resume=1)
 
