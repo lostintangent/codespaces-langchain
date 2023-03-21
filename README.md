@@ -6,15 +6,9 @@ This template provides a one-click dev environment for building "LLM apps" with 
 
 ## Getting Started
 
-1. Create a repo from this template, by clicking the green `Use this template` button, and selecting `Create a new repository`. Name the repo whatever you'd like 👍
+1. Create a codespace for this templates.
 
-    <img width="150px" src="https://user-images.githubusercontent.com/116461/214456882-1821146a-5d10-4571-b55f-69254800776f.png" />
-
-1. In order to interact with GPT-3, you'll need to create an account with [OpenAI](https://openai.com/api/), and generate an API key that LangChain can use. Once you have that, create a new [Codespaces repo secret](https://docs.github.com/en/codespaces/managing-codespaces-for-your-organization/managing-encrypted-secrets-for-your-repository-and-organization-for-github-codespaces#adding-secrets-for-a-repository) named `OPENAI_API_KEY`, and set it to the value of your API key.
-
-1. Open your new repo in a Codespace by clicking the green `Code` button on the repo's homepage, and selecting `Create codespace on main`
-
-    <img width="300px" src="https://user-images.githubusercontent.com/116461/214457831-28778e80-d314-4c7c-a199-948d5d9828e9.png" />
+    [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/lostintangent/codespaces-langchain?resume=1)
 
 1. Once you're within the web editor, simply open any of the notebooks within the `/examples` folder, and select `Run All` in the notebook's toolbar. From there, you can change any of the prompts and/or code, and then re-run the cell/notebook, in order to get a better intuition for how LangChain can help you build your own custom chains 🚀
 
