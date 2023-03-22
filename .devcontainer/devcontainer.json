@@ -1,6 +1,6 @@
 {
   "secrets": {
-    "OPENAI_API_KEY": {
+    "OPENAPI_API_KEY": {
       "description": "In order to interact with GPT-3, you'll need to create an account with OpenAPI and generate an API key that LangChain can use.",
       "documentationUrl": "https://openai.com/api/"
     }
